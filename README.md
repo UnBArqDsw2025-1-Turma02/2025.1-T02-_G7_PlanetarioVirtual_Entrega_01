@@ -37,6 +37,7 @@ npm i docsify-cli -g
     <td align="center"><a href="https://github.com/leticiatmartins"><img style="border-radius: 50%;" src="https://github.com/leticiatmartins.png" width="100px;" alt="Imagem de Leticia"/><br /><sub><b>Leticia Martins</b></sub></a></td>
     <td align="center"><a href="https://github.com/manoelmoura"><img style="border-radius: 50%;" src="https://github.com/manoelmoura.png" width="100px;" alt="Imagem de Manoel Moura"/><br /><sub><b>Manoel Moura</b></sub></a></td>
     <td align="center"><a href="https://github.com/jlucasiqueira"><img style="border-radius: 50%;" src="https://github.com/jlucasiqueira.png" width="100px;" alt="Imagem de Joao Lucas"/><br /><sub><b>João Lucas</b></sub></a></td>
+    <td align="center"><a href="https://github.com/raphaiela"><img style="border-radius: 50%;" src="https://github.com/raphaiela.png" width="100px;" alt="Imagem de raphaela"/><br /><sub><b>Raphaela</b></sub></a></td>
 
 
   </tr>
