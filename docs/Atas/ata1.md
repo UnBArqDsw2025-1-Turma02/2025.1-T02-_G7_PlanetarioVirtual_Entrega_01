@@ -1,8 +1,7 @@
 # Ata da Reunião – Arquitetura e Desenho de Software
 
 
-**Data:** 06/04/2025 | [Gravação da Reunião](https://unbbr.sharepoint.com/sites/ArquiteturaeDesenhodeSoftware/Documentos%20Compartilhados/General/Recordings/Reuni%C3%A3o%20em%20_-20250406_203150-Grava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
-
+**Data:** 06/04/2025 
 **Participantes Presentes:**
 - João Pedro Silva Sousa  
 - Manoel Castro Moura Filho  
@@ -11,9 +10,6 @@
 - Milena Fernandes Rocha  
 - Taynara Gabrielle Vitorino
 
----
-
-Se quiser, posso aplicar isso direto ao documento completo também!
 ---
 
 ## Assunto
@@ -70,5 +66,24 @@ Atividades previstas:
 - Responsáveis por artefatos podem iniciar os esboços.
 
 ---
+
+## Link da Gravação
+
+Reunião feita via Teams e postado no YouTube como não listado a seguir no Vídeo 1
+
+
+<div style="text-align: center">
+
+<font size="3"><p style="text-align: center">Vídeo 1: 1º Reunião - Definição do Projeto </p></font>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OScrLYRIsqU?si=9_QatSvJi1-7yP-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<font size="3"><p style="text-align: center"><b>Autores: [Milena Rocha](https://github.com/MilenaFRocha)</b> . 1º Reunião - Definição do Projeto. Disponível em: <a href="https://www.youtube.com/watch?v=OScrLYRIsqU">https://www.youtube.com/watch?v=OScrLYRIsqU</a>. Acesso em: 06 de abril 2025.</p></font>
+
+[Gravação da reunião](https://youtu.be/IGVM2Y_aXLE)
+
+---
+
+
 
 _Reunião encerrada com a definição das responsabilidades e alinhamento dos próximos passos._
