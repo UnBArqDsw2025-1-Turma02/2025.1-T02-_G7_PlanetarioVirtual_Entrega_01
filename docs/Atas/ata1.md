@@ -1,14 +1,19 @@
 # Ata da Reunião – Arquitetura e Desenho de Software
 
-**Data:** 06/04/2025  
+
+**Data:** 06/04/2025 | [Gravação da Reunião](https://unbbr.sharepoint.com/sites/ArquiteturaeDesenhodeSoftware/Documentos%20Compartilhados/General/Recordings/Reuni%C3%A3o%20em%20_-20250406_203150-Grava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
+
 **Participantes Presentes:**
 - João Pedro Silva Sousa  
 - Manoel Castro Moura Filho  
 - Raphaela Guimarães de Araújo dos Santos  
 - Rafael Gomes Pereira  
 - Milena Fernandes Rocha  
-- Taynara Gabrielle Vitorino  
+- Taynara Gabrielle Vitorino
 
+---
+
+Se quiser, posso aplicar isso direto ao documento completo também!
 ---
 
 ## Assunto
