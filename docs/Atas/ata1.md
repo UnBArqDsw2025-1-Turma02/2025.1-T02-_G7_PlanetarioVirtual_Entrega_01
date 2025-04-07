@@ -26,7 +26,7 @@ Atividades previstas:
 
 ---
 
-## Distribuição de Artefatos (Consolidação da Reunião)
+## Consolidação da Reunião
 
 > Divisão definida durante a reunião de 06/04/2025.
 
