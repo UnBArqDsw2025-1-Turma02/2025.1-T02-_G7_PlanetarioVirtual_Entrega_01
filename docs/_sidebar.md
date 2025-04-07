@@ -10,3 +10,8 @@
     - [1.3. Modelagem BPMN](/docs/Base/1.3.ModelagemBPMN.md)
     - [1.4. Participações - Base](/docs/Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras - Base](/docs/Base/1.5.IniciativasExtras.md)
+  - [2. Elicitção de Requisitos](./Elicitação/)
+    - [2.1 Introspecção](./Elicitação/introcpeccao.md)
+  
+- **Atas**
+  - [1. Ata - 06/04/2025](./Atas/ata1.md)
