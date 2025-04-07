@@ -88,7 +88,7 @@ Reunião feita via Teams e postado no YouTube como não listado a seguir no Víd
 
 _Reunião encerrada com a definição das responsabilidades e alinhamento dos próximos passos._
 </div>
----
+
 
 
 ### **Histórico de Versão**
