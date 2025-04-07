@@ -24,6 +24,26 @@ npm i docsify-cli -g
 
 ### Executando localmente
 
+## 👥 Contribuidores
+
+<center> 
+  
+  <table style="width: 100%;">
+  <tr>
+    <td align="center"><a href="https://github.com/rafgpereira"><img style="border-radius: 50%;" src="https://github.com/rafgpereira.png" width="100px;" alt="Imagem de Brenno Oliveira "/><br /><sub><b>Brenno Oliveira </b></sub></a></td>
+    <td align="center"><a href="https://github.com/MilenaFRocha"><img style="border-radius: 50%;" src="https://github.com/MilenaFRocha.png" width="100px;" alt="Imagem de Julia Takaki"/><br /><sub><b>Julia Takaki</b></sub></a></td>
+    <td align="center"><a href="https://github.com/joaopedrooss"><img style="border-radius: 50%;" src="https://github.com/JoaoPedrooSS.png" width="100px;" alt="Imagem de Maria Eduarda"/><br /><sub><b>Maria Eduarda</b></sub></a></td>
+    <td align="center"><a href="https://github.com/dudupaz"><img style="border-radius: 50%;" src="https://github.com/dudupaz.png" width="100px;" alt="Imagem de Pedro Henrique"/><br /><sub><b>Pedro Henrique</b></sub></a></td>
+    <td align="center"><a href="https://github.com/leticiatmartins"><img style="border-radius: 50%;" src="https://github.com/leticiatmartins.png" width="100px;" alt="Imagem de Rayene Almeida"/><br /><sub><b>Rayene Almeida</b></sub></a></td>
+    <td align="center"><a href="https://github.com/manoelmoura"><img style="border-radius: 50%;" src="https://github.com/manoelmoura.png" width="100px;" alt="Imagem de Renato Carvalho"/><br /><sub><b>Renato Carvalho</b></sub></a></td>
+    <td align="center"><a href="https://github.com/jlucassiqueira"><img style="border-radius: 50%;" src="https://github.com/jlucassiqueira.png" width="100px;" alt="Imagem de Víctor Almeida"/><br /><sub><b>Víctor Almeida</b></sub></a></td>
+
+
+  </tr>
+</table> 
+
+</center>
+
 Para iniciar o site localmente, utilize o comando:
 
 ```shell
