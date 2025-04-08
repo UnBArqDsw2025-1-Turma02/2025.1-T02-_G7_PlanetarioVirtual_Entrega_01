@@ -69,8 +69,7 @@ Abaixo, na **Tabela 2**, os requisitos não funcionais que foram elicitados a pa
 <font size="3"><p style="text-align: center"><b>Autor:</b> [Milena Rocha](https://github.com/MilenaFRocha), 2025.</p></font>
 
 ---
-### Gravação da Instrospecção
-
+### Gravação da Introspecção
 Abaixo, no **Vídeo 1**, a gravação do método de elicitação sendo realizado pela autora.
 
 <font size="3"><p style="text-align: center"><b>Vídeo 1:</b> Introspecção - Milena</p></font>
