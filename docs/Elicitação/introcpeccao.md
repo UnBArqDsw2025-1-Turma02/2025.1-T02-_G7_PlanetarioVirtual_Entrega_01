@@ -25,7 +25,7 @@ Após a coleta individual dos requisitos, os resultados foram organizados em dua
 
 ### Tabela 1 – Requisitos Funcionais 
 
-Abaixo, na **Tabela 1**, os requisitos funcionais que foram elicitados a partir do método da instrospecção.
+Abaixo, na **Tabela 1**, os requisitos funcionais que foram elicitados a partir do método da introspecção.
 
 
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Requisitos Funcionais.</p></font>
