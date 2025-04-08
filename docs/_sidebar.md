@@ -4,6 +4,7 @@
   - [1. Desenho de Software (Base)](./Base/1.Base.md)
     - [1.1. Design Sprint](./Base/DesignSprint/1.1.DesignSprint.md)
       - [1.1.1 Mapa Mental](./Base/DesignSprint/1.1.1MapaMental.md)
+      - [1.1.2 Rich Pictures](./Base/DesignSprint/1.1.2RichPictures.md)
       - [1.1.3 StoryBoarding](./Base/DesignSprint/1.1.3StoryBoarding.md)
     - [1.2. Artefato Generalista](./Base/1.2.ArtefatoGeneralista.md)
     - [1.3. Modelagem BPMN](./Base/1.3.ModelagemBPMN.md)
