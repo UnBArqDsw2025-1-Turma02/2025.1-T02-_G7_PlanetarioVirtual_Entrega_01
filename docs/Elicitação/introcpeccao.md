@@ -15,8 +15,8 @@ Após a coleta individual dos requisitos, os resultados foram organizados em dua
 - RFx: Requisito Funcional nºx
 - RNFx: Requisito Não-Funcional nºx
 - ISx: Requisito nºx elicitado pela introspecção nºx
-  
-- **Tabela 1**: Requisitos Funcionais – descrevem o que o sistema deve fazer.  
+
+- **Tabela 1**: Requisitos Funcionais – descrevem o que o sistema deve fazer.
 - **Tabela 2**: Requisitos Não-Funcionais – indicam as qualidades que o sistema deve possuir.
 
 
@@ -25,9 +25,11 @@ Após a coleta individual dos requisitos, os resultados foram organizados em dua
 
 ### Tabela 1 – Requisitos Funcionais 
 
-<font size="3"><p style="text-align: center">Tabela 1: Requisitos Funcionais.</p></font>
+Abaixo, na **Tabela 1**, os requisitos funcionais que foram elicitados a partir do método da introspecção.
 
-<center>
+
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Requisitos Funcionais.</p></font>
+
 
 | ID     | Requisito Funcional                                                                 |
 |--------|--------------------------------------------------------------------------------------|
@@ -39,22 +41,23 @@ Após a coleta individual dos requisitos, os resultados foram organizados em dua
 | ISRF06 | O sistema deve permitir **ler** postagens e comentários de outros usuários.         |
 | ISRF07 | O sistema deve permitir **atualizar** suas próprias postagens.                      |
 | ISRF08 | O sistema deve permitir **deletar** suas próprias postagens.                        |
-</center>
 
-<font size="3"><p style="text-align: center">Fonte: [Milena Rocha](https://github.com/MilenaFRocha).</p></font>
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> [Milena Rocha](https://github.com/MilenaFRocha), 2025.</p></font>
 
 ---
 
 
-### Tabela 2 – Requisitos Não-Funcionais
+### Tabela 2 – Requisitos Não Funcionais
 
-<font size="3"><p style="text-align: center">Tabela 2: Requisitos Não Funcionais.</p></font>
+Abaixo, na **Tabela 2**, os requisitos não funcionais que foram elicitados a partir do método da instrospecção.
 
-<center>
+
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Requisitos Não Funcionais.</p></font>
 
 
 | ID      | Requisito Não-Funcional                                                              |
-|---------|----------------------------------------------------------------------------------------|
+|---------|--------------------------------------------------------------------------------------|
 | ISRNF01 | O sistema deve possuir uma interface intuitiva e acessível para todas as idades.     |
 | ISRNF02 | O conteúdo deve estar disponível 24 horas por dia, com alta disponibilidade.          |
 | ISRNF03 | O sistema deve ter tempo de resposta inferior a 2 segundos para exibição das imagens da NASA. |
@@ -62,13 +65,14 @@ Após a coleta individual dos requisitos, os resultados foram organizados em dua
 | ISRNF05 | O sistema deve estar disponível em múltiplas plataformas (desktop e mobile).          |
 | ISRNF06 | As informações científicas devem estar atualizadas e baseadas em fontes confiáveis.   |
 
-</center>
 
-<font size="3"><p style="text-align: center">Fonte: [Milena Rocha](https://github.com/MilenaFRocha).</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> [Milena Rocha](https://github.com/MilenaFRocha), 2025.</p></font>
 
 ---
+### Gravação da Introspecção
+Abaixo, no **Vídeo 1**, a gravação do método de elicitação sendo realizado pela autora.
 
-<font size="3"><p style="text-align: center">Vídeo 1: Introspecção - Milena </p></font>
+<font size="3"><p style="text-align: center"><b>Vídeo 1:</b> Introspecção - Milena</p></font>
 <div style="text-align: center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rlu61Y_2bZk?si=K3Cq3H86g-BOn-oU&amp;start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -84,3 +88,4 @@ Após a coleta individual dos requisitos, os resultados foram organizados em dua
 | Versão | Data       | Descrição                                      | Autor               | Revisor            |
 |--------|------------|------------------------------------------------|---------------------|--------------------|
 | 1.0    | 05/04/2025 | Criação do documento | [Milena Rocha](https://github.com/milenafrocha)          |  [Rafael Pereira](https://github.com/rafgpereira)  |
+| 1.1    | 08/04/2025 | Padroniza formatação |   [Rafael Pereira](https://github.com/rafgpereira)  |[Milena Rocha](https://github.com/milenafrocha)          |
