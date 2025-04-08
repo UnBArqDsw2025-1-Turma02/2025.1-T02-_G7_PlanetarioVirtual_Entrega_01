@@ -87,3 +87,15 @@ Reunião feita via Teams e postado no YouTube como não listado a seguir no Víd
 
 
 _Reunião encerrada com a definição das responsabilidades e alinhamento dos próximos passos._
+</div>
+
+
+
+### **Histórico de Versão**
+
+| Versão | Data       | Descrição                                      | Autor               | Revisor            |
+|--------|------------|------------------------------------------------|---------------------|--------------------|
+| 1.0    | 05/04/2025 | Criação do documento | [Milena Rocha](https://github.com/milenafrocha)          |  [Rafael Pereira](https://github.com/rafgpereira)  |
+
+
+
