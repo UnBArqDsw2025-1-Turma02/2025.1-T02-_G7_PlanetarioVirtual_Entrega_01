@@ -12,8 +12,9 @@
     - [1.4. Participações - Base](./Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras - Base](./Base/1.5.IniciativasExtras.md)
     - [1.6. Elicitção de Requisitos](./Base/Elicitacao/1.6.Elicitacao.md)
-      - [1.6.1 Introspecção](./Base/Elicitacao/1.6.1Introcpeccao.md)
+      - [1.6.1 Introspecção](./Base/Elicitacao/1.6.1Introspeccao.md)
       - [1.6.2 Entrevista](./Base/Elicitacao/1.6.2Entrevista.md)
+      - [1.6.3 Requisitos Elicitados](./Base/Elicitacao/1.6.3RequisitosElicitados.md)
 
 - **Atas**
   - [1. Ata - 06/04/2025](./Atas/ata1.md)
