@@ -26,5 +26,5 @@
       - [1.6.3 Priorização Tree Level Scale](./Base/Elicitacao/1.6.4Priorizacao.md)
 
 - **Atas**
-  - [1. Ata - 06/04/2025](./Extra/Atas/ata1.md)
-  - [2. Ata - 08/04/2025](./Extra/Atas/ata2.md)
+  - [1. Ata - 06/04/2025](./Base/Extra/Atas/ata1.md)
+  - [2. Ata - 08/04/2025](./Base/Extra/Atas/ata2.md)
