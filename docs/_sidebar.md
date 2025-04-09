@@ -12,6 +12,7 @@
       - [1.2.1 Léxico](./Base/ArtefatosGeneralistas/1.2.1Lexico.md)
       - [1.2.2 5W2H](./Base/ArtefatosGeneralistas/1.2.25W2H.md)
       - [1.2.3 Rich Picture](./Base/ArtefatosGeneralistas/1.2.3RichPicture.md)
+      - [1.2.4 Diagrama Causa e Efeito](./Base/ArtefatosGeneralistas/1.2.4DiagramCausaEfeito.md)
     - [1.3. Modelagem BPMN](./Base/BPMN/1.3.ModelagemBPMN.md)
     - [1.4. Participações - Base](./Base/Participacoes/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras - Base](./Base/Extra/1.5.IniciativasExtras.md)
