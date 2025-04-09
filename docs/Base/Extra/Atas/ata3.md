@@ -51,12 +51,12 @@ Reunião feita via Teams e postado no YouTube como não listado a seguir no Víd
 <div style="text-align: center">
 
 <font size="3"><p style="text-align: center">Vídeo 1: Reunião de Alinhamento</p></font>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaggTAO0ug0?si=pvrVrDCJbFKLavgp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V8QQj6t_ink?si=W-qQZw1QEVOVCn5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-<font size="3"><p style="text-align: center"><b>Autores: [Milena Rocha](https://github.com/MilenaFRocha)</b> . Reunião de Alinhamento. Disponível em: <a href="https://youtu.be/KaggTAO0ug0">https://youtu.be/KaggTAO0ug0</a>. Acesso em: 06 de abril 2025.</p></font>
+<font size="3"><p style="text-align: center"><b>Autores: [Milena Rocha](https://github.com/MilenaFRocha)</b> . Reunião de Alinhamento. Disponível em: <a href="https://www.youtube.com/watch?v=V8QQj6t_ink">https://www.youtube.com/watch?v=V8QQj6t_ink</a>. Acesso em: 06 de abril 2025.</p></font>
 
-[Gravação da reunião](https://youtu.be/KaggTAO0ug0)
+[Gravação da reunião](https://www.youtube.com/watch?v=V8QQj6t_ink)
 
 ---
 
