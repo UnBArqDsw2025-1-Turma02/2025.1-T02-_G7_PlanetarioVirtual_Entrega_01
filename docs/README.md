@@ -44,7 +44,4 @@ Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
 | Versão | Data       | Descrição                                | Autor            | Revisor          |
 |--------|------------|------------------------------------------|------------------|------------------|
-| 1.0    | 05/04/2025 | Criação inicial do documento             | [Milena Rocha](https://github.com/MilenaFRocha) | [Rafael Pereira](https://github.com/rafgpereira) |
-
-
-
+| 1.0    | 05/04/2025 | Criação inicial do documento             | [Milena Rocha](https://github.com/MilenaFRocha) | [Rafael Pereira](https://github.com/rafgpereira) |
