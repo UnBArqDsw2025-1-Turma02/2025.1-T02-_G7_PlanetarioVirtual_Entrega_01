@@ -18,6 +18,7 @@
       - [1.6.1 Introspecção](./Base/Elicitacao/1.6.1Introspeccao.md)
       - [1.6.2 Entrevista](./Base/Elicitacao/1.6.2Entrevista.md)
       - [1.6.3 Requisitos Elicitados](./Base/Elicitacao/1.6.3RequisitosElicitados.md)
+      - [1.6.3 Priorização Tree Level Scale](./Base/Elicitacao/1.6.4Priorizacao.md)
 
 - **Atas**
   - [1. Ata - 06/04/2025](./Atas/ata1.md)
