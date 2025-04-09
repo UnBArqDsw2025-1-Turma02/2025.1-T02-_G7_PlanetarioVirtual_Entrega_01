@@ -1,4 +1,4 @@
-# Planetário Virtual
+# 🌎 Planetário Virtual
 
 **Código da Disciplina**: FGA0208<br>
 **Número do Grupo**: 07<br>
