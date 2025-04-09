@@ -1,8 +1,8 @@
 # 🌎 Planetário Virtual
 
-*Código da Disciplina*: FGA0208<br>
-*Número do Grupo*: 07<br>
-*Entrega*: 01<br>
+**Código da Disciplina**: FGA0208<br>
+**Número do Grupo**: 07<br>
+**Entrega**: 01<br>
 
 ## Alunos
 
