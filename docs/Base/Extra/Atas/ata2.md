@@ -59,13 +59,12 @@ Reunião feita via Teams e postado no YouTube como não listado a seguir no Víd
 
 <div style="text-align: center">
 
-<font size="3"><p style="text-align: center">Vídeo 1: Criação do Brainstorm e Mapa Mental </p></font>
+<font size="3"><p style="text-align: center">Vídeo 1: Criação do Brainstorm, Mapa Mental e Storyboarding </p></font>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KaggTAO0ug0?si=pvrVrDCJbFKLavgp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-<font size="3"><p style="text-align: center"><b>Autores: [Milena Rocha](https://github.com/MilenaFRocha)</b> . Criação do Brainstorm e Mapa Mental. Disponível em: <a href="https://youtu.be/KaggTAO0ug0">https://youtu.be/KaggTAO0ug0</a>. Acesso em: 06 de abril 2025.</p></font>
+<font size="3"><p style="text-align: center"><b>Autores: [Milena Rocha](https://github.com/MilenaFRocha)</b> . Criação do Brainstorm, Mapa Mental e Storyboarding. Disponível em: <a href="https://youtu.be/KaggTAO0ug0">https://youtu.be/KaggTAO0ug0</a>. Acesso em: 06 de abril 2025.</p></font>
 
-[Gravação da reunião](https://youtu.be/KaggTAO0ug0)
 
 ---
 
@@ -80,3 +79,4 @@ _Reunião concluída com colaboração efetiva de todos os integrantes na constr
 | Versão | Data       | Descrição                                      | Autor               | Revisor            |
 |--------|------------|------------------------------------------------|---------------------|--------------------|
 | 1.0    | 05/04/2025 | Criação do documento | [Milena Rocha](https://github.com/milenafrocha)          |  [Rafael Pereira](https://github.com/rafgpereira)  |
+| 1.1    | 09/04/2025 | Ajuste de nome do vídeo| [Milena Rocha](https://github.com/milenafrocha)          |  [Rafael Pereira](https://github.com/rafgpereira)  |
