@@ -65,7 +65,6 @@ Reunião feita via Teams e postado no YouTube como não listado a seguir no Víd
 
 <font size="3"><p style="text-align: center"><b>Autores: [Milena Rocha](https://github.com/MilenaFRocha)</b> . Criação do Brainstorm, Mapa Mental e Storyboarding. Disponível em: <a href="https://youtu.be/KaggTAO0ug0">https://youtu.be/KaggTAO0ug0</a>. Acesso em: 06 de abril 2025.</p></font>
 
-[Gravação da reunião](https://youtu.be/KaggTAO0ug0)
 
 ---
 

@@ -80,7 +80,7 @@ Reunião feita via Teams e postado no YouTube como não listado a seguir no Víd
 
 <font size="3"><p style="text-align: center"><b>Autores: [Milena Rocha](https://github.com/MilenaFRocha)</b> . 1º Reunião - Definição do Projeto. Disponível em: <a href="https://www.youtube.com/watch?v=OScrLYRIsqU">https://www.youtube.com/watch?v=OScrLYRIsqU</a>. Acesso em: 06 de abril 2025.</p></font>
 
-[Gravação da reunião](https://youtu.be/IGVM2Y_aXLE)
+
 
 ---
 
