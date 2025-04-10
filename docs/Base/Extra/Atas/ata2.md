@@ -74,7 +74,7 @@ _Reunião concluída com colaboração efetiva de todos os integrantes na constr
 
 
 
-### **Histórico de Versão**
+### Histórico de Versão
 
 | Versão | Data       | Descrição                                      | Autor               | Revisor            |
 |--------|------------|------------------------------------------------|---------------------|--------------------|
