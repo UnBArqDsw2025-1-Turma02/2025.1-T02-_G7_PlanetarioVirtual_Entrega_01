@@ -2,9 +2,9 @@
 
 - [Sobre o projeto](/)
 
-- [Código de conduta](/)
+- [Código de conduta](/CodigoConduta.md)
 
-- [Como contribuir](/)
+- [Como contribuir](/GuiaContribuicao.md)
 
 - **Base**
   - [1. Desenho de Software (Base)](./Base/1.Base.md)
