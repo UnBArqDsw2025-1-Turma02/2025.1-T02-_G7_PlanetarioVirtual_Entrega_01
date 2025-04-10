@@ -40,7 +40,7 @@ Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
 
 
-## Histórico de Versão
+### Histórico de Versão
 
 | Versão | Data       | Descrição                                | Autor            | Revisor          |
 |--------|------------|------------------------------------------|------------------|------------------|

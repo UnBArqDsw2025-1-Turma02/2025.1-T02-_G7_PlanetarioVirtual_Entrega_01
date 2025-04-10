@@ -91,7 +91,7 @@ _Reunião encerrada com a definição das responsabilidades e alinhamento dos pr
 
 
 
-### **Histórico de Versão**
+### Histórico de Versão
 
 | Versão | Data       | Descrição                                      | Autor               | Revisor            |
 |--------|------------|------------------------------------------------|---------------------|--------------------|
