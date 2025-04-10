@@ -14,6 +14,11 @@
       - [1.1.3 Decision: StoryBoarding](./Base/DesignSprint/1.1.3StoryBoarding.md)
       - [1.1.4 Prototype: Protótipo](./Base/DesignSprint/1.1.4Prototipo.md)
       - [1.1.5 Test: Validação](./Base/DesignSprint/1.1.5Validacao.md)
+      - **Requisitos**
+        - [1.1.6 Introspecção](./Base/Elicitacao/1.6.1Introspeccao.md)
+        - [1.1.7 Entrevista](./Base/Elicitacao/1.6.2Entrevista.md)
+        - [1.1.8 Baseline](./Base/Elicitacao/1.6.3RequisitosElicitados.md)
+        - [1.1.9 Priorização Tree Level Scale](./Base/Elicitacao/1.6.4Priorizacao.md)
     - [1.2. Artefato Generalista](./Base/ArtefatosGeneralistas/1.2.ArtefatoGeneralista.md)
       - [1.2.1 Léxico](./Base/ArtefatosGeneralistas/1.2.1Lexico.md)
       - [1.2.2 5W2H](./Base/ArtefatosGeneralistas/1.2.25W2H.md)
@@ -25,13 +30,7 @@
       - [1.5.1 Ferramentas](./Base/Extra/1.5.1Ferramentas.md)
       - [1.5.2 Cronograma](./Base/Extra/1.5.2Cronograma.md)
       - [1.5.3 Heatmap](./Base/Extra/1.5.3Heatmap.md)
-    - [1.6. Elicitção de Requisitos](./Base/Elicitacao/1.6.Elicitacao.md)
-      - [1.6.1 Introspecção](./Base/Elicitacao/1.6.1Introspeccao.md)
-      - [1.6.2 Entrevista](./Base/Elicitacao/1.6.2Entrevista.md)
-      - [1.6.3 Requisitos Elicitados](./Base/Elicitacao/1.6.3RequisitosElicitados.md)
-      - [1.6.3 Priorização Tree Level Scale](./Base/Elicitacao/1.6.4Priorizacao.md)
-
-- **Atas**
-  - [1. Ata - 06/04/2025](./Base/Extra/Atas/ata1.md)
-  - [2. Ata - 08/04/2025](./Base/Extra/Atas/ata2.md)
-  - [3. Ata - 09/04/2025](./Base/Extra/Atas/ata3.md)
+      - **Atas**
+        - [1. Ata - 06/04/2025](./Base/Extra/Atas/ata1.md)
+        - [2. Ata - 07/04/2025](./Base/Extra/Atas/ata2.md)
+        - [3. Ata - 09/04/2025](./Base/Extra/Atas/ata3.md)
