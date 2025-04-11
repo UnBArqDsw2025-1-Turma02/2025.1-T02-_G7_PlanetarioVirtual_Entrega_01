@@ -2,9 +2,9 @@
 
 O **Planetário Virtual** é uma aplicação web interativa que oferece uma experiência imersiva de aprendizado e exploração do universo 🌍✨. A plataforma foi pensada para ser acessível e visualmente intuitiva, permitindo que os usuários:
 
-📸 Visualizem a **Imagem do Dia da NASA**
-🪐 Acessem **informações sobre planetas e outros astros** do Sistema Solar através de uma interface interativa
-💬 Compartilhem ideias e interajam em um **fórum de discussão astronômico**
+📸 Visualizem a **Imagem do Dia da NASA**<br>
+🪐 Acessem **informações sobre planetas e outros astros** do Sistema Solar através de uma interface interativa<br>
+💬 Compartilhem ideias e interajam em um **fórum de discussão astronômico**<br>
 
 Tudo isso com o objetivo de promover o ensino de ciências de forma envolvente e dinâmica 🚀.
 
