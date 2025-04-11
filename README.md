@@ -12,7 +12,7 @@ Tudo isso com o objetivo de promover o ensino de ciências de forma envolvente e
 
 ## 📚 Contexto Acadêmico
 
-Este repositório reúne a documentação e os artefatos desenvolvidos na **Primeira Entrega** do projeto, produzido pelo **Grupo 07** para a disciplina de **Arquitetura e Desenho de Software**, ministrada pela professora **Milene Serrano** durante o **segundo semestre de 2024** na **Universidade de Brasília (UnB)** 🎓.
+Este repositório reúne a documentação e os artefatos desenvolvidos na **Primeira Entrega** do projeto, produzido pelo **Grupo 07** para a disciplina de **Arquitetura e Desenho de Software**, ministrada pela professora **Milene Serrano** durante o **primeiro semestre de 2025** na **Universidade de Brasília (UnB)** 🎓.
 
 ## 👥 Contribuidores
 
