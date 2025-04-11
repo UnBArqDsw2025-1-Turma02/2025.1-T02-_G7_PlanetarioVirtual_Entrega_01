@@ -25,7 +25,7 @@
 ## Sobre 
 O Planetário Virtual é uma aplicação web interativa que visa proporcionar uma experiência imersiva de aprendizado e exploração do universo. Através de uma plataforma acessível e visualmente intuitiva, o sistema permite que usuários explorem corpos celestes, acompanhem eventos astronômicos e simulem fenômenos do espaço, promovendo educação científica de forma envolvente.
 
-Esta documentação tem como objetivo armazenar e descrever todos os artefatos produzidos e os resultados obtidos durante o desenvolvimento da primeira entrega do Grupo 07 da disciplina de Arquitetura e Desenho de Software, ministrada pela professora Milene Serrano no segundo semestre letivo de 2024 na Universidade de Brasília (UnB).
+Esta documentação tem como objetivo armazenar e descrever todos os artefatos produzidos e os resultados obtidos durante o desenvolvimento da primeira entrega do Grupo 07 da disciplina de Arquitetura e Desenho de Software, ministrada pela professora Milene Serrano no primeiro semestre letivo de 2025 na Universidade de Brasília (UnB).
 
 A primeira entrega refere-se à construção do módulo base, com foco nas atividades de Design Sprint, modelagem generalista e modelagem de processos (BPMN), que estabelecem as diretrizes iniciais para o projeto.
 
