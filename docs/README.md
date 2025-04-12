@@ -30,7 +30,21 @@ Esta documentação tem como objetivo armazenar e descrever todos os artefatos p
 A primeira entrega refere-se à construção do módulo base, com foco nas atividades de Design Sprint, modelagem generalista e modelagem de processos (BPMN), que estabelecem as diretrizes iniciais para o projeto.
 
 ## Screenshots da Primeira Entrega
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
+
+### Mapa Mental
+![Mapa Mental](assets/MapaMental.jpg)
+
+### Rich Picture
+![Rich Picture](assets/Rich_Picture.png)
+
+### Protótipo
+![Prototipo](assets/prototipo.png)
+
+### Diagrama Causa Efeito
+![Causa Efeito](assets/DiagramaCausaEfeitoMilena.jpg)
+
+### BPMN SCRUM
+![SCRUM](assets/scrum.jpg)
 
 ## Há algo a ser executado?
 
@@ -45,3 +59,4 @@ Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 | Versão | Data       | Descrição                                | Autor            | Revisor          |
 |--------|------------|------------------------------------------|------------------|------------------|
 | 1.0    | 05/04/2025 | Criação inicial do documento             | [Milena Rocha](https://github.com/MilenaFRocha) | [Rafael Pereira](https://github.com/rafgpereira) |
+| 1.1    | 11/04/2025 | Adiciona screenshots            | [Rafael Pereira](https://github.com/rafgpereira) | [Milena Rocha](https://github.com/MilenaFRocha) |
